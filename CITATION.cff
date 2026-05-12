@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use FrameXplore in your research, please cite it as below."
+authors:
+  - family-names: Vijay
+    given-names: Vidhu S
+    orcid: "https://orcid.org/0009-0009-1182-2089"
+title: "FrameXplore: Automated disulfide bond correction for cysteine-rich protein structures"
+version: 1.0.0
+doi: 10.5281/zenodo.20132827
+date-released: 2026-05-12
+repository-code: "https://github.com/Vidhusv/FrameXplore"
+license: MIT
+keywords:
+  - disulfide bonds
+  - cysteine-rich proteins
+  - ColabFold
+  - AlphaFold
+  - structural biology
+  - toxin
+  - conotoxin
+  - ICK peptide
